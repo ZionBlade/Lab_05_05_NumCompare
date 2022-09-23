@@ -25,9 +25,5 @@ public class Main
         {
             System.out.println("That is not a valid number");
         }
-
-
-
-
     }
 }
